@@ -6,9 +6,9 @@ public class HelloWorld {
 		System.out.println( "Jouons ensemble!" );
 		
 		System.out.println( "Et si on jouait au FizzBuzz ?" );  
-        System.out.println(FizzBuzz.getResult());
+        System.out.println(FizzBuzz.jouer());
         
         System.out.println( "Et si on jouait au Marabout ?" );  
-        System.out.println(Marabout.getResult());
+        System.out.println(Marabout.jouer());
 	}
 }
